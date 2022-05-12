@@ -1,0 +1,7 @@
+*/build/*
+build/
+coverage/
+doc/
+http/
+node_modules/
+test_results/
