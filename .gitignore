@@ -1,23 +1,14 @@
-# Build Outputs
-build
-gz3d/build
-build_*
-
-# Just Mac Things
-.DS_Store
-
-# Just IDE Things
-.vscode
-
-# Etc
-*.*~
-*~
-*.orig
-*.swp
-http/client/assets
-node_modules
-http/client
-coverage
-doc
-npm-debug.log
-test_results
+*.tar.gz
+*.sdf
+*.sdf.erb
+*.rsdf
+*.dae
+*.DAE
+*.stl
+*.mtl
+*.obj
+build/
+gz3d/build/
+gzbridge/build/
+http/
+node_modules/
